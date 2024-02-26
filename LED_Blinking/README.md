@@ -32,7 +32,8 @@ This project demonstrates a simple LED blinking program for the PIC16F877A micro
 
 ## Circuit Connection
 
-Refer to the [proteus_connection.png](proteus_connection.png) image for the Proteus circuit connection.
+Refer to the [proteus_connection.png](![Uploading image.png…]()
+) image for the Proteus circuit connection.
 
 ## Troubleshooting
 
