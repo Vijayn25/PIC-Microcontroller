@@ -30,10 +30,10 @@ This project demonstrates a simple LED blinking program for the PIC16F877A micro
 5. Load the compiled code onto the microcontroller.
 6. Run the Proteus simulation using the provided connection diagram.
 
-## Circuit Connection
+## Working Video
 
-Refer to the [proteus_connection.png](![Uploading image.png…]()
-) image for the Proteus circuit connection.
+Refer to the Video for the working
+![Alt Text](Led_blink.gif)
 
 ## Troubleshooting
 
