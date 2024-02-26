@@ -13,7 +13,7 @@ This project demonstrates a simple LED blinking program for the PIC16F877A micro
 
 - PIC16F877A microcontroller
 - LED
-- Resistors and connecting wires
+- Connecting wires
 
 ## Software Requirements
 
