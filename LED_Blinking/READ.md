@@ -6,7 +6,7 @@ This project demonstrates a simple LED blinking program for the PIC16F877A micro
 
 ## Contents
 
-- [led.c](led.c): The C source code file containing the LED blinking program.
+- [led.c](Led.c): The C source code file containing the LED blinking program.
 - [proteus_connection.png](proteus_connection.png): Image showing the connection in Proteus.
 
 ## Hardware Requirements
