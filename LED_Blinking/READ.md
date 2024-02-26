@@ -39,11 +39,5 @@ Refer to the [proteus_connection.png](proteus_connection.png) image for the Prot
 - Check for any errors during code compilation in MPLAB X IDE.
 - Ensure that the microcontroller is powered appropriately.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to contribute and improve this project. If you encounter any issues, please open a new issue on the GitHub repository.
-
 Happy coding!
 
